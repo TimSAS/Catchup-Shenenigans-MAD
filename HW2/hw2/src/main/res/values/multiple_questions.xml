@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mq1">Which is the biggest planet?</string>
+    <string name="mq2">Which is the biggest country?</string>
+    <integer name="ma1">2</integer>
+    <integer name="ma2">0</integer>
+    <string-array name="mc1">
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Jupiter</item>
+    </string-array>
+
+    <string-array name="mc2">
+        <item>Russia</item>
+        <item>China</item>
+        <item>USA</item>
+    </string-array>
+</resources>
