@@ -1,0 +1,42 @@
+(new app idea 4.2.2019)
+
+App name: Task Obliterator
+
+Description: Idea came to me when I read a small article named something like this "Conquering procrastination through gaming addiction"
+	(original article is in russian, but here's a link to it: https://habr.com/ru/post/439318/). Idea is pretty simple: author was trying
+	to work on his own game in his spare time and at one point he noticed that in four months or so he has spent only about 20 hours on it.
+	To combat this situation, which I definitely relate to, he decided to approach it in somewhat gaming-related way: basically any game 
+	rewards its players for achieving some game-related goals, being that statistics of headshots or increase in numbers in some way or another.
+	Author took that main idea and created an Excel file to track his game-development in each specific category(graphics, sounds, animation...).
+	He set a goal for himself to work about 10 hours every week on it, and opposed to many to-do apps, it not only kept the statistics but also took 
+	the goal(10 hrs) in account, resulting in negative score if behind schedule, positive otherwise. Here's a recreation of how approximately that 
+	looked like:
+	
+	[excell screen here]
+
+	Author achieved pretty exceptional results: 49 hours in 6 weeks when he just started doing it. And then he even increased his weekly goal to 14hrs
+	and was able to maintain it, basically has become addicted to his work =) The goal is to make an app that you can set daily/weekly/monthly/yearly
+ 	goals and your "score" will roll over. Also it should be possible to create a regular to-do lists. To keep it even more interesting, I'm thinking of
+ 	implementing some "game rules" so that you can potentially "loose" and your highscore will be recorded, which might motivate user even harder 
+	(by trying to beat his/her previous highscore). Also I thought of having different rule sets so you can keep this "game" even more interesting,
+ 	by changing some of the priorities in the rules or by making it in some ways easier/harder.
+	
+	Also, compared to many apps that do provide some form of statistic, the statistic in my app should be more relevant since it's going to track time
+	+ individual tasks.
+
+Similar apps:
+1. Todoist - probably the least in terms of features but is pretty straight forward. No custom lists it seems. Things I liked: not many "screens" (only 
+	about 3 main "windows"), ability to set daily goal in terms of tasks completed + set the days off (when your daily goal streak is paused). Also felt
+	like it's one of the fastests ones in it's operation from the three I selected to review.
+	https://play.google.com/store/apps/details?id=com.todoist&hl=en
+
+2. Any.do - nice app, liked it better than Wunderlist. Nice things: custom lists, priority system within lists, integration with your google calendar, nice UI 
+	animations + looks simple but nice (design flows nice if it makes sense). In terms of statistics + motivation aspect, again, not much of that - 
+	only a list of completed tasks + time of their completion.
+	https://play.google.com/store/apps/details?id=com.anydo
+
+3. Wunderlist - pretty straight forward to-do list app. From nice features: allows to create different lists for different categories you might have + being 
+	able to share a list with somebody and check it off together. Not much in terms of meaningfull statistics (saw only number of tasks completed which
+	is kinda hard to relate to productivity in precise manner).
+	https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid
+	
